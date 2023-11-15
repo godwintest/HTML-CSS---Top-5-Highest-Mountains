@@ -7,7 +7,7 @@ body {
 nav {
     background-color: #333;
     color: white;
-    padding: 20px 0;
+    padding: 25px 0;
 }
 
 nav ul {
@@ -25,6 +25,10 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+}
+
+#table-of-contents{
+    padding-top: 70px;
 }
 
 h1, h2, caption {
